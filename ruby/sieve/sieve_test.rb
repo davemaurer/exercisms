@@ -1,4 +1,5 @@
 require 'minitest/autorun'
+require 'minitest/pride'
 require_relative 'sieve'
 
 # Common test data version: 1.0.0 f2b2693

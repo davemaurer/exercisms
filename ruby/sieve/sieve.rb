@@ -8,4 +8,9 @@ class Sieve
     return nil if number <= 2
     (2..number)
   end
+
+  def primes
+    result = []
+    return result if @numbers.nil?
+  end
 end
