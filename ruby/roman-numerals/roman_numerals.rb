@@ -17,3 +17,7 @@ class Fixnum
     roman
   end
 end
+
+module BookKeeping
+  VERSION = 2
+end
