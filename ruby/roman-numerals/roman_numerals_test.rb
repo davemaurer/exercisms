@@ -4,7 +4,6 @@ require_relative 'roman_numerals'
 # Common test data version: 1.0.0 070e8d5
 class RomanNumeralsTest < Minitest::Test
   def test_1
-    # skip
     assert_equal 'I', 1.to_roman
   end
 
